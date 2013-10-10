@@ -23,9 +23,11 @@ em, a {
 }
 
 a {
-  background: #34d0e7;
+  background: #BBE1E7;
   color:#000;
   text-decoration:none;
+  line-height:120%;
+
 }
 
 img {
